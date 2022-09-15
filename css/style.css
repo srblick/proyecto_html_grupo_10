@@ -41,6 +41,9 @@ body{
     font-size: 12px;
     padding-left: 30px;
 }
+icon-social{
+    fill: #ec8e4a;
+}
 .card-content{
     display: flex;
     flex-direction: row;
@@ -72,6 +75,10 @@ body{
     padding: 10px 30px;
     margin-right: 16px;
     font-size: 12px;
+}
+.icon-boton{
+    position: relative;
+    top: 7px;
 }
 .valoracion{
     width: 150px;
